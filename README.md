@@ -1,4 +1,4 @@
-# myide
+# pyrun editor
 
 A Python code editor to execute .py files. Facilities like saving, opening and compilation of .py files are provided. The Gui has been designed using Tkinter and factory functions implemented by tkinter.filedialog and subprocess module .
 
