@@ -1,6 +1,6 @@
 # pyrun editor
 
-A Python code editor to execute .py files. Facilities like saving, opening and compilation of files are provided. The Gui has been designed using Tkinter and factory functions implemented by tkinter.filedialog and subprocess module .
+A Python code editor to execute .py files. Facilities like saving, opening and compilation of files are provided. The Gui has been designed using Tkinter and factory functions implemented by tkinter.filedialog and subprocess module.
 
 ![Screencast from 30-07-21 11_40_54 PM IST](https://user-images.githubusercontent.com/55712612/127714439-80004075-ac2a-4fe3-84e0-2731a3c3cdc9.gif)
 
