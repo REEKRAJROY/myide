@@ -4,7 +4,6 @@ A Python code editor to execute .py files. Facilities like saving, opening and c
 
 ![Screencast from 30-07-21 11_40_54 PM IST](https://user-images.githubusercontent.com/55712612/127714439-80004075-ac2a-4fe3-84e0-2731a3c3cdc9.gif)
 
-This project has been build by following Programming Hero's [Create your Own IDE](https://www.youtube.com/watch?v=f1u3me4GYmw) video from YouTube.
 
 
 
